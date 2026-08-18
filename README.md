@@ -218,6 +218,6 @@ We are not accepting external pull requests at this time — the SDK is evolving
 - **Bug reports & feature requests** — [open an issue](https://github.com/cloudflare/agents/issues)
 - **Questions & ideas** — [start a discussion](https://github.com/cloudflare/agents/discussions)
 
-## License
+## Licensee
 
 [MIT](LICENSE)
